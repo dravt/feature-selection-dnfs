@@ -13,8 +13,6 @@ silence_tensorflow()
 
 np.set_printoptions(precision=1, suppress=True)
 
-#%%
-
 class FeatureSelector:
     
     def __init__(self,

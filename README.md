@@ -22,13 +22,15 @@ and you should be ready to go. On Windows, you may need to change the optimizer 
 inside `feature_selector.py` to
 
 ```python
-    keras.optimizers.Adam().
+    keras.optimizers.Adam()
 ```
 
 ## Usage
-The file `feature_selector.py` contains the implementation based on the working principles outlined in the paper. If you intend to reproduce the results, you need to execute the files corresponding to the respective datasets.
+The file `feature_selector.py` contains the implementation based on the working principles outlined in the paper. If you intend to reproduce the results, you need to execute the files corresponding to the respective datasets. If you are using Spyder, you can directly execute the code blocks step by step.
 
-For the Ames Housing dataset, you must specify the path to the AmesHousing.csv file. The following code initializes the selector:
+For the Ames Housing dataset, you must specify the path to the AmesHousing.csv file.
+
+The following code initializes the selector:
 
 ```python
 # Generate Selector instance
