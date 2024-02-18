@@ -1,5 +1,3 @@
-# Feature selection
-
 ## Name
 Dual-Network Feature Selection
 
