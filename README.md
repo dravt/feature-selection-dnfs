@@ -1,5 +1,4 @@
-## Name
-Dual-Network Feature Selection
+# Dual-Network Feature Selection
 
 ## Description
 This repository contains the source code to reproduce the results stated in the paper "Embedded Feature Selection Using Dual-Network Architecture".
